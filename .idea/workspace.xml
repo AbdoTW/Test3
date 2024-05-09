@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71f029db-d32e-423e-bdc3-e4284903407b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/helper/SecurityHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/helper/SecurityHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/AuthQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/AuthQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/AuthenticationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/Products.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/UserDetailsImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/models/UserDetailsImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/services/auth/signup/RegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/java/com/e_commerce/e_commerce/services/auth/signup/RegisterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/E-Commerce_backEnd/e_commerce/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2fpVPjyv3mRwaERRGe2l1GNhvNO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f029db-d32e-423e-bdc3-e4284903407b" name="Changes" comment="" />
+      <created>1714497985245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714497985245</updated>
+    </task>
+    <servers />
+  </component>
+</project>
